@@ -1,0 +1,170 @@
+Not a valid triangle.
+
+
+Not a valid triangle.
+
+
+Not a valid triangle.
+
+
+Not a valid triangle.
+
+---
+
+This is an isoceles acute angle triangle.
+
+The perimeter is: 10.0 units.
+
+The area is: 4.47 units^2.
+
+Angle between sides 3.0 and 4.0 is 48.19 degrees.
+Angle between sides 4.0 and 3.0 is 48.19 degrees.
+Angle between sides 3.0 and 3.0 is 83.62 degrees.
+
+---
+
+This is a scalene right angle triangle.
+
+The perimeter is: 12.0 units.
+
+The area is: 6.0 units^2.
+
+Angle between sides 4.0 and 5.0 is 36.87 degrees.
+Angle between sides 5.0 and 3.0 is 53.13 degrees.
+Angle between sides 4.0 and 3.0 is 90.0 degrees.
+
+---
+
+This is a scalene obtuse angle triangle.
+
+The perimeter is: 13.0 units.
+
+The area is: 5.33 units^2.
+
+Angle between sides 4.0 and 6.0 is 26.38 degrees.
+Angle between sides 6.0 and 3.0 is 36.34 degrees.
+Angle between sides 4.0 and 3.0 is 117.28 degrees.
+
+---
+
+Not a valid triangle.
+
+
+Not a valid triangle.
+
+
+Not a valid triangle.
+
+
+Not a valid triangle.
+
+---
+
+Not a valid triangle.
+
+
+Not a valid triangle.
+
+
+Not a valid triangle.
+
+
+Not a valid triangle.
+
+---
+
+Not a valid triangle.
+
+
+Not a valid triangle.
+
+---
+
+This is a scalene obtuse angle triangle.
+
+The perimeter is: 13.0 units.
+
+The area is: 5.33 units^2.
+
+Angle between sides 4.0 and 6.0 is 26.38 degrees.
+Angle between sides 6.0 and 3.0 is 36.34 degrees.
+Angle between sides 4.0 and 3.0 is 117.28 degrees.
+
+---
+
+This is a scalene acute angle triangle.
+
+The perimeter is: 17.0 units.
+
+The area is: 11.98 units^2.
+
+Angle between sides 4.0 and 6.0 is 86.42 degrees.
+Angle between sides 6.0 and 7.0 is 34.77 degrees.
+Angle between sides 4.0 and 7.0 is 58.81 degrees.
+
+---
+
+This is an isoceles obtuse angle triangle.
+
+The perimeter is: 15.0 units.
+
+The area is: 6.78 units^2.
+
+Angle between sides 7.0 and 4.0 is 28.96 degrees.
+Angle between sides 4.0 and 4.0 is 122.09 degrees.
+Angle between sides 7.0 and 4.0 is 28.96 degrees.
+
+---
+
+Not a valid triangle.
+
+---
+
+This is an equilateral acute angle triangle.
+
+The perimeter is: 15.0 units.
+
+The area is: 10.83 units^2.
+
+Angle between sides 5.0 and 5.0 is 60.0 degrees.
+Angle between sides 5.0 and 5.0 is 60.0 degrees.
+Angle between sides 5.0 and 5.0 is 60.0 degrees.
+
+---
+
+This is an isoceles acute angle triangle.
+
+The perimeter is: 10.0 units.
+
+The area is: 4.47 units^2.
+
+Angle between sides 3.0 and 4.0 is 48.19 degrees.
+Angle between sides 4.0 and 3.0 is 48.19 degrees.
+Angle between sides 3.0 and 3.0 is 83.62 degrees.
+
+---
+
+This is a scalene right angle triangle.
+
+The perimeter is: 12.0 units.
+
+The area is: 6.0 units^2.
+
+Angle between sides 4.0 and 5.0 is 36.87 degrees.
+Angle between sides 5.0 and 3.0 is 53.13 degrees.
+Angle between sides 4.0 and 3.0 is 90.0 degrees.
+
+---
+
+This is a scalene obtuse angle triangle.
+
+The perimeter is: 13.0 units.
+
+The area is: 5.33 units^2.
+
+Angle between sides 4.0 and 6.0 is 26.38 degrees.
+Angle between sides 6.0 and 3.0 is 36.34 degrees.
+Angle between sides 4.0 and 3.0 is 117.28 degrees.
+
+---
+
